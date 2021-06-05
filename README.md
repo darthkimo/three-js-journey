@@ -7,7 +7,7 @@ Repo to keep record of learning [Three JS Journey Class](https://threejs-journey
 01. Introduction :heavy_check_mark:
 02. What is WebGL and why use Three.js :heavy_check_mark:
 03. Basic scene :heavy_check_mark:
-04. Webpack
+04. Webpack :heavy_check_mark:
 05. Transform objects
 06. Animations
 07. Cameras
